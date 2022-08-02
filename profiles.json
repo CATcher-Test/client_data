@@ -39,6 +39,10 @@
         {
             "profileName": "CS2103/T Tutors",
             "repoName": "CATcher-testbed/alpha5"
+        },
+        {
+            "profileName": "CATcher Test",
+            "repoName": "CATcher-Test/public_data"
         }
     ]
 }
